@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <style type="text/css">
+
+    body { background-image:url(flower.png);}
+        
+
+         h2 {font-family:Comic Sans MS;
+           font-weight:bold;
+            font-style:italic;
+            color:orange; }
+               
+
+        h1 { text-align:center;
+             color:rgb(129, 165, 30);
+             font-style:italic;
+             background-color: bisque;
+             text-align: center;
+             padding: 5px;
+             width:100%; 
+             border-color: black;
+            border-style: solid;
+            border-size: 8px;}
+        h2 {font-family: Comic Sans MS;} 
+        tr {}
+        a:link{font-weight: bold;}
+        a:hover{background-color: red; color:white; text-decoration: none;}
+
+        a:active{background-color:yellow ;}
+        </style>
+    </head>
+    <body>
+        <h1>My Website</h1> 
+        <table> 
+           <tr> 
+              <td> <h2>Nisa's Page</h2></td>
+            </tr>
+        </table>
+        
+       
+         <p>Hi, everyone I'm trying to improve myself on frontend developing</p>
+         
+
+         <h1></h1>
+         <table border="15" width="50%"
+         
+         <tr> 
+            <h1>Programing Language that I know(BASIC)</h1>
+            <td>C++</td>
+            <td>jAVA</td>
+            <td>SQL</td>
+            <td>HTML-CSS</td>
+            <td>JAVASCRIPT</td>
+        </tr>
+    </table>
+    <a href="http://www.nisaguness.com">you can fallow</a>from here!!
+    <p><a href="mailto:gunessng@gmail.com">Send your mail here.</a></p>
+</body>
+</html>
